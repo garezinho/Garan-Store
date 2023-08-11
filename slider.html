@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Projeto Camisa de time</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <link rel="stylesheet" type="text/css" href="loginbutton.css">
+    <link rel="stylesheet" type="text/css" href="signupButton.css">
+    <link rel="icon" href="logos/BOLA PORRA.png">
+
+<style>
+    .slider {
+    display: block;
+    height: 293px;
+    width: 600px;
+    margin: auto;
+    margin-top: 20px;
+    position: relative;
+}
+
+.slider li {
+    list-style: none;
+    position: absolute;
+}
+
+.slider img {
+    margin: auto;
+    height: 100%;
+    width: 100%;
+    vertical-align: top;
+}
+
+.slider input {
+    display: none;
+}
+
+.slider label {
+    background-color: #000;
+    bottom: 10px;
+    cursor: pointer;
+    display: block;
+    height: 10px;
+    position: absolute;
+    width: 10px;
+    z-index: 10;
+}
+
+.slider li:nth-child(1) label {
+    left: 10px;
+}
+
+.slider li:nth-child(2) label {
+    left: 40px;
+}
+
+.slider li:nth-child(3) label {
+    left: 70px;
+}
+
+.slider img {
+    opacity: 0;
+    visibility: hidden;
+}
+
+.slider li input:checked ~ img {
+    opacity: 1;
+    visibility: visible;
+    z-index: 10;
+}
+
+</style>
+
+</head>
+
+<body>
+
+    <script>
+        function redirecionarLogin() {
+            window.location.href = "login.html";
+        }
+        function redirecionarSignup() {
+            window.location.href = "signup.html";
+        }
+
+
+    </script>
+
+    <header>
+
+        <div>
+            <button  class="botao1" onclick="redirecionarLogin()">Entrar</button>
+
+            <button class="botao2" onclick="redirecionarSignup()">Registrar</button>
+
+        </div>
+
+
+    </header>
+
+    <section class="container">
+        <ul class="slider">
+            <li>
+                  <input type="radio" id="slide1" name="slide" checked>
+                  <label for="slide1"></label>
+                  <img id="camisaCorinthians" src="img/camisCorinthians1.png" />
+            </li>
+            <li>
+                  <input type="radio" id="slide2" name="slide">
+                  <label for="slide2"></label>
+                  <img id="camisaCorinthians2" src="img/camisCorinthians2.jpg" />
+            </li>
+            <li>
+                  <input type="radio" id="slide3" name="slide">
+                  <label for="slide3"></label>
+                  <img id="camisaCorinthians3" src="img/camisaCorinthians3.jpeg" />
+            </li>
+        </ul>
+    </section>
+
+
+
+</body>
+
+</html>
