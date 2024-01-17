@@ -1,6 +1,1 @@
-1. Estudo das cores
-2. Logomarca 
-3. Logotipo 
-4. Canvas
-5. Infográfico 
-6. Site
+Um trabalho (não terminado) para a escola de um protótipo de loja de venda de camisas de times, não será continuado.

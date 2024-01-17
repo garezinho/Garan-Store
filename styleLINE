@@ -1,0 +1,24 @@
+# {
+
+    background-image: url(img/Bandeira.jpg);
+    background-position: center;
+    filter: brightness(50%);
+    transition: 100ms;
+    border-radius: 7px;
+    background-size: cover;
+
+}
+#:hover {
+    transform: scale(102%);
+    cursor: pointer;
+}
+
+#Span {
+
+    padding-top: 43px;
+    padding-left: 130px;
+    position: absolute;
+    color: white;
+    text-align: center;
+
+}

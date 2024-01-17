@@ -1,0 +1,397 @@
+#america {
+
+    background-image: url(img/americamgBandeira.jpg);
+    background-position: center;
+    filter: brightness(50%);
+    transition: 100ms;
+    border-radius: 7px;
+    background-size: cover;
+
+}
+#america:hover {
+    transform: scale(102%);
+    cursor: pointer;
+}
+
+#americaSpan {
+
+    padding-top: 43px;
+    padding-left: 130px;
+    position: absolute;
+    color: white;
+    text-align: center;
+
+}
+
+
+#athletico {
+
+    background-image: url(img/athleticoBandeira.jpg);
+    background-position: center;
+    filter: brightness(50%);
+    transition: 100ms;
+    border-radius: 7px;
+    background-size: cover;
+
+}
+#athletico:hover {
+    transform: scale(102%);
+    cursor: pointer;
+}
+
+#athleticoSpan {
+
+    padding-top: 43px;
+    padding-left: 130px;
+    position: absolute;
+    color: white;
+    text-align: center;
+
+}
+
+
+#atleticomg {
+
+    background-image: url(img/atleticoBandeira.jpg);
+    background-position: center;
+    filter: brightness(50%);
+    transition: 100ms;
+    border-radius: 7px;
+    background-size: cover;
+
+}
+#atleticomg:hover {
+    transform: scale(102%);
+    cursor: pointer;
+}
+
+#atleticomgSpan {
+
+    padding-top: 43px;
+    padding-left: 130px;
+    position: absolute;
+    color: white;
+    text-align: center;
+
+}
+
+
+#bahia {
+
+    background-image: url(img/bahiaBandeira.jpg);
+    background-position: center;
+    filter: brightness(50%);
+    transition: 100ms;
+    border-radius: 7px;
+    background-size: cover;
+
+}
+#bahia:hover {
+    transform: scale(102%);
+    cursor: pointer;
+}
+
+#bahiaSpan {
+
+    padding-top: 43px;
+    padding-left: 130px;
+    position: absolute;
+    color: white;
+    text-align: center;
+
+}
+
+
+#bragantino {
+
+    background-image: url(img/bragantinoBandeira.jpg);
+    background-position: center;
+    filter: brightness(50%);
+    transition: 100ms;
+    border-radius: 7px;
+    background-size: cover;
+
+}
+#bragantino:hover {
+    transform: scale(102%);
+    cursor: pointer;
+}
+
+#bragantinoSpan {
+
+    padding-top: 43px;
+    padding-left: 130px;
+    position: absolute;
+    color: white;
+    text-align: center;
+
+}
+
+
+#coritiba {
+
+    background-image: url(img/coritibaBandeira.png);
+    background-position: center;
+    filter: brightness(50%);
+    transition: 100ms;
+    border-radius: 7px;
+    background-size: cover;
+
+}
+#coritiba:hover {
+    transform: scale(102%);
+    cursor: pointer;
+}
+
+#coritibaSpan {
+
+    padding-top: 43px;
+    padding-left: 130px;
+    position: absolute;
+    color: white;
+    text-align: center;
+
+}
+
+
+#cruzeiro {
+
+    background-image: url(img/cruzeiroBandeira.jpg);
+    background-position: center;
+    filter: brightness(50%);
+    transition: 100ms;
+    border-radius: 7px;
+    background-size: cover;
+
+}
+#cruzeiro:hover {
+    transform: scale(102%);
+    cursor: pointer;
+}
+
+#cruzeiroSpan {
+
+    padding-top: 43px;
+    padding-left: 130px;
+    position: absolute;
+    color: white;
+    text-align: center;
+
+}
+
+
+#cuiaba {
+
+    background-image: url(img/cuiabaBandeira.jpg);
+    background-position: center;
+    filter: brightness(50%);
+    transition: 100ms;
+    border-radius: 7px;
+    background-size: cover;
+
+}
+#cuiaba:hover {
+    transform: scale(102%);
+    cursor: pointer;
+}
+
+#cuiabaSpan {
+
+    padding-top: 43px;
+    padding-left: 130px;
+    position: absolute;
+    color: white;
+    text-align: center;
+
+}
+
+
+#fluminense {
+
+    background-image: url(img/fluminenseBandeira.jpg);
+    background-position: center;
+    filter: brightness(50%);
+    transition: 100ms;
+    border-radius: 7px;
+    background-size: cover;
+
+}
+#fluminense:hover {
+    transform: scale(102%);
+    cursor: pointer;
+}
+
+#fluminenseSpan {
+
+    padding-top: 43px;
+    padding-left: 130px;
+    position: absolute;
+    color: white;
+    text-align: center;
+
+}
+
+
+#fortaleza {
+
+    background-image: url(img/fortalezaBandeira.jpg);
+    background-position: center;
+    filter: brightness(50%);
+    transition: 100ms;
+    border-radius: 7px;
+    background-size: cover;
+
+}
+#fortaleza:hover {
+    transform: scale(102%);
+    cursor: pointer;
+}
+
+#fortalezaSpan {
+
+    padding-top: 43px;
+    padding-left: 130px;
+    position: absolute;
+    color: white;
+    text-align: center;
+
+}
+
+
+
+#goias {
+
+    background-image: url(img/goiasBandeira.jpg);
+    background-position: center;
+    filter: brightness(50%);
+    transition: 100ms;
+    border-radius: 7px;
+    background-size: cover;
+
+}
+#goias:hover {
+    transform: scale(102%);
+    cursor: pointer;
+}
+
+#goiasSpan {
+
+    padding-top: 43px;
+    padding-left: 130px;
+    position: absolute;
+    color: white;
+    text-align: center;
+
+}
+
+
+
+#gremio {
+
+    background-image: url(img/gremioBandeira.jpg);
+    background-position: center;
+    filter: brightness(50%);
+    transition: 100ms;
+    border-radius: 7px;
+    background-size: cover;
+
+}
+#gremio:hover {
+    transform: scale(102%);
+    cursor: pointer;
+}
+
+#gremioSpan {
+
+    padding-top: 43px;
+    padding-left: 130px;
+    position: absolute;
+    color: white;
+    text-align: center;
+
+}
+
+
+
+#internacional {
+
+    background-image: url(img/internacionalBandeira.jpg);
+    background-position: center;
+    filter: brightness(50%);
+    transition: 100ms;
+    border-radius: 7px;
+    background-size: cover;
+
+}
+#internacional:hover {
+    transform: scale(102%);
+    cursor: pointer;
+}
+
+#internacionalSpan {
+
+    padding-top: 43px;
+    padding-left: 130px;
+    position: absolute;
+    color: white;
+    text-align: center;
+
+}
+
+
+
+#vasco {
+
+    background-image: url(img/vascoBandeira.png);
+    background-position: center;
+    filter: brightness(50%);
+    transition: 100ms;
+    border-radius: 7px;
+    background-size: cover;
+
+}
+#vasco:hover {
+    transform: scale(102%);
+    cursor: pointer;
+}
+
+#vascoSpan {
+
+    padding-top: 43px;
+    padding-left: 130px;
+    position: absolute;
+    color: white;
+    text-align: center;
+
+}
+
+
+#mirassol {
+
+    background-image: url(img/mirassolBandeira.jpg);
+    background-position: center;
+    filter: brightness(50%);
+    transition: 100ms;
+    border-radius: 7px;
+    background-size: cover;
+
+}
+#mirassol:hover {
+    transform: scale(102%);
+    cursor: pointer;
+    
+    
+}
+
+
+#mirassolSpan {
+
+    opacity: 1;
+    background-color: rgba(0, 0, 0, 0.3);
+    color: white;
+
+}
+
+
+
+
